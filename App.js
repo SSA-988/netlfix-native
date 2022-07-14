@@ -9,10 +9,10 @@ export default function App() {
   return (
     <ScrollView style={styles.container}>
       <StatusBar style="auto" />
-      {/* <Screen/>
+       <Screen/>
 
-      <Rows/> */}
-      <PaidScreen/>
+      <Rows/>
+      {/* <PaidScreen/> */}
     </ScrollView>
   );
 }
